@@ -1,4 +1,4 @@
-What I have learnt in ALX Pathway
+What I have learned from this course
 
 - Git and Github
 - Linux controls
