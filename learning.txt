@@ -1,0 +1,5 @@
+What I have learnt in ALX Pathway
+
+- Git and Github
+- Linux controls
+- Programming
